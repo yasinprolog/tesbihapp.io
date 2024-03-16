@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Engagement');
+
+
+body{
+    font-family: Engagement, sans-serif; 
+    text-align: center;
+}
+
+h1{
+    padding-top: 5%;
+    padding-top: 5%;
+}
+
+button{
+    padding-top: 1%;
+    border: none;
+    width: 50px;
+    height: 50  px;
+    font-size: 22px;
+    font-family: Engagement;
+
+}
+
+.border{
+    border-image-source: url("border.png");
+    border-image-width: 150px;  /* Adjust border width as needed */
+    border-image-slice: 400;
+    margin: 0 auto;
+    width: 50%;
+    
+}
