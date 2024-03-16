@@ -1,3 +1,3 @@
 layout: page
 title: "tesbihapp"
-permalink: /index.html
+permalink: tesbihapp/io/index.html
